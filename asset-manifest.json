@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Travel-react-app/static/css/main.a24bd626.chunk.css",
+    "main.js": "/Travel-react-app/static/js/main.e2e2e334.chunk.js",
+    "main.js.map": "/Travel-react-app/static/js/main.e2e2e334.chunk.js.map",
+    "runtime-main.js": "/Travel-react-app/static/js/runtime-main.479297e3.js",
+    "runtime-main.js.map": "/Travel-react-app/static/js/runtime-main.479297e3.js.map",
+    "static/js/2.0a737b0f.chunk.js": "/Travel-react-app/static/js/2.0a737b0f.chunk.js",
+    "static/js/2.0a737b0f.chunk.js.map": "/Travel-react-app/static/js/2.0a737b0f.chunk.js.map",
+    "index.html": "/Travel-react-app/index.html",
+    "precache-manifest.7282df42d342022bb54961f3b264e1d3.js": "/Travel-react-app/precache-manifest.7282df42d342022bb54961f3b264e1d3.js",
+    "service-worker.js": "/Travel-react-app/service-worker.js",
+    "static/css/main.a24bd626.chunk.css.map": "/Travel-react-app/static/css/main.a24bd626.chunk.css.map",
+    "static/js/2.0a737b0f.chunk.js.LICENSE.txt": "/Travel-react-app/static/js/2.0a737b0f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.479297e3.js",
+    "static/js/2.0a737b0f.chunk.js",
+    "static/css/main.a24bd626.chunk.css",
+    "static/js/main.e2e2e334.chunk.js"
+  ]
+}
