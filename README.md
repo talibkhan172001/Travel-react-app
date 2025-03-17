@@ -37,9 +37,6 @@ This travel web application helps users discover breathtaking destinations with 
 ## 🔗 Live Demo  
 Check out the live version here: [Travel React App](https://travel-react-app52.vercel.app/)  
 
-## 📸 Screenshots  
-![Travel App Screenshot](./path-to-your-screenshot.png)  
-
 ## 📜 License  
 This project is licensed under the MIT License.
 
